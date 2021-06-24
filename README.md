@@ -3,6 +3,8 @@
 - [Responsibility](#responsibility)
 - [Requirement](#requirement)
 - [Plus](#plus)
+- [Salary](#salary)
+- [Contact us](#contact-us)
 
 # Responsibility
 - Design and implement high performance and reliable application and system structure.
@@ -30,3 +32,10 @@
 - Knowledge on service discovery. (Consul, ETCd, etc.)
 - Experience with ELK/EFK stacks.
 - Experience with CDN.
+
+# Salary
+- 1M - 1.6M / Year
+
+# Contact us
+- Please send your resume as attachments to <recruit@smartclouds.info>
+- Mail title: `Apply to position: SRE`
