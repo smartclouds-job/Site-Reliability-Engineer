@@ -34,7 +34,7 @@
 - Experience with CDN.
 
 # Salary
-- 1M - 1.6M / Year
+- 1M - 2M / Year
 
 # Contact us
 - Please send your resume as attachments to <recruit@smartclouds.info>
