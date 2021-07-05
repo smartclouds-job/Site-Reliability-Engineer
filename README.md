@@ -38,4 +38,4 @@
 
 # Contact us
 - Please send your resume as attachments to <recruit@smartclouds.info>
-- Mail title: `Apply to position: SRE [Name]`
+- Mail title: `Apply to position: SRE: [Name]`
